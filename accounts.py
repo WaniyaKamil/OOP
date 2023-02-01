@@ -57,7 +57,7 @@ if __name__ == "__main__":
 
     sik.show_transactions()
 
-    niga = Account("nigg", 800)
-    niga.deposit(100)
-    niga.withdraw(200)
-    niga.show_transactions()
+    meh = Account("bruh", 800)
+    bruh.deposit(100)
+    bruh.withdraw(200)
+    bruh.show_transactions()
